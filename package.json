@@ -1,0 +1,21 @@
+{
+  "name": "tabnews_curso",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/daniellensousa/tabnews_curso#readme",
+  "bugs": {
+    "url": "https://github.com/daniellensousa/tabnews_curso/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellensousa/tabnews_curso.git"
+  },
+  "license": "MIT",
+  "author": "Danielle",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
